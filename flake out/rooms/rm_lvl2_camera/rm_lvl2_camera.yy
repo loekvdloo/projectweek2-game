@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "rm_lvl2_camera",
-  "creationCodeFile": "",
+  "creationCodeFile": "rooms/rm_lvl2_camera/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
