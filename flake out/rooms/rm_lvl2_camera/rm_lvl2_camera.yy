@@ -8,11 +8,17 @@
   "inheritLayers": false,
   "instanceCreationOrder": [
     {"name":"inst_9341B66","path":"rooms/rm_lvl2_camera/rm_lvl2_camera.yy",},
+    {"name":"inst_36AA3D6E","path":"rooms/rm_lvl2_camera/rm_lvl2_camera.yy",},
+    {"name":"inst_5A3D0A75","path":"rooms/rm_lvl2_camera/rm_lvl2_camera.yy",},
+    {"name":"inst_20BC8CD","path":"rooms/rm_lvl2_camera/rm_lvl2_camera.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_9341B66","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_timer_camera_lvl1","path":"objects/obj_timer_camera_lvl1/obj_timer_camera_lvl1.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":768.0,"y":128.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_36AA3D6E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_sam_stil","path":"objects/obj_sam_stil/obj_sam_stil.yy",},"properties":[],"rotation":0.0,"scaleX":0.1,"scaleY":0.1,"x":1712.0,"y":508.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5A3D0A75","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_moeder_stil","path":"objects/obj_moeder_stil/obj_moeder_stil.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1714.0,"y":152.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_20BC8CD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_powerup_timer_stil","path":"objects/obj_powerup_timer_stil/obj_powerup_timer_stil.yy",},"properties":[],"rotation":0.0,"scaleX":0.3,"scaleY":0.3,"x":736.0,"y":1024.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"achtergrond_lvl2","path":"sprites/achtergrond_lvl2/achtergrond_lvl2.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":-300,"y":-550,},
   ],
